@@ -1,0 +1,19 @@
+body {
+   width: 512px;
+   margin: 0 auto;      
+}   
+
+.box {
+   border: 5px solid black;
+   margin: 8px;
+   padding: 10px;
+}     
+hr {
+   margin: 0px;
+   padding: 0px;  
+}  
+
+footer {
+   font-size: 15px ;
+   margin-top: 20px;
+}  
